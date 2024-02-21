@@ -6,6 +6,7 @@ nav:
   - Home: index.md
   - Example Folder:
     - Example Page: example-folder/example-entry.md
+  - Credits: repo-credit.md
 
 theme:
   name: material
